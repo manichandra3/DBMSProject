@@ -1,9 +1,17 @@
 # DBMSProject
 
-## 2201074
+# Technologies Used
 
-## 2201079
+## Backend: SpringBoot
 
-## 2201083
+## Frontend: Reactjs
 
-## 2201110
+# Authours
+
+## 2201074 Manichandra
+
+## 2201079 Dheeran
+
+## 2201083 Jaswanth
+
+## 2201110 Akshar
